@@ -1,0 +1,9 @@
+.content {
+  width: 80vw;
+  padding: 2%;
+  text-align: justify;
+}
+.main_content {
+  display: flex;
+  justify-content: center;
+}
